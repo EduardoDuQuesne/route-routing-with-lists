@@ -1,4 +1,4 @@
-# Route Routing
+# Route Routing NSS Angular Exercise
 
 ## Setup
 
@@ -35,7 +35,7 @@ Start `http-server` and access both of the routes and verify that each highway's
 
 ## Second Requirements
 
-In this exercise you will add a default view to your Routes of America application.
+After completion of the first exercise:
 
 1. Add an additional route to your application that will load a listing view.
 1. The listing view simply shows two hyperlinks that route the user to the two routes you built previously.
